@@ -229,7 +229,7 @@
         transform: translateX(-150%);
         /* transition: 1.7s ease; */
         background: rgb(11,208,85);
-        background: linear-gradient(180deg, rgba(11,208,85,1) 0%, rgba(37,53,87,1) 61%);
+        background: linear-gradient(180deg, hsl(143, 90%, 43%) 0%, rgba(37,53,87,1) 61%);
     }
     .mobile-btn{
         transform: translateX(0);
